@@ -110,11 +110,7 @@ img{
     font-weight: 500;
     text-transform: capitalize;
 }
-.line{
-    width: 100px;
-    height: 3px;
-    background: #ff9505;
-}
+
 .food-price{
     padding: 0.4rem 0;
     font-weight: 600;
