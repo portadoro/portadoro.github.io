@@ -51,8 +51,8 @@ img{
     background: none;
     border: none;
     color: #ff9505;
-    display: block;
-    margin: 0 1rem;
+    display: inline;
+    margin:5px;
     cursor: pointer;
     outline: 0;
     transition: opacity 0.4s ease-out;
