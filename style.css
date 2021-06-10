@@ -40,14 +40,14 @@ img{
 }
 .menu-btns{
     padding: 0.6rem 0;
-    display: flex;
+    display:flex;
     justify-content: center;
 }
 .menu-btn{
     font-family: var(--Inter);
     text-transform: uppercase;
     font-size: 12px;
-    font-weight: 300;
+    font-weight: 100;
     background: none;
     border: none;
     color: #ff9505;
